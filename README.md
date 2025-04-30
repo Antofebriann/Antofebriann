@@ -4,20 +4,15 @@
 
 - 💻 I'm a web developer, passionate about learning new technologies.
 - 🌱 Currently learning: JavaScript, Node.js, and web development frameworks.
-- 📫 How to reach me: [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [Email](mailto:muhammadrezafebrianto2@gmail.com)
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antofebriann&show_icons=true&hide_title=true)
 
-## Snake Animation
-
-![Snake animation](https://github.com/Antofebriann/Antofebriann/blob/output/snake.svg)
-
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/antofebriann)
-- [Twitter](https://twitter.com/antofebriann)
+- [LinkedIn](https://www.linkedin.com/in/muhammadrezafebrianto/)
 
 ## Languages and Tools:
 
