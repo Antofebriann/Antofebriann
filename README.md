@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Antofebriann 👋
 
-<!--
-**Antofebriann/Antofebriann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 I'm a web developer, passionate about learning new technologies.
+- 🌱 Currently learning: JavaScript, Node.js, and web development frameworks.
+- 📫 How to reach me: [Email](mailto:your.email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antofebriann&show_icons=true&hide_title=true)
+
+## Snake Animation
+
+![Snake animation](https://github.com/Antofebriann/Antofebriann/blob/output/snake.svg)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/antofebriann)
+- [Twitter](https://twitter.com/antofebriann)
+
+## Languages and Tools:
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
