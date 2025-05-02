@@ -1,4 +1,5 @@
 # Hi, I'm Antofebriann 👋
+![alt text](image-1.png)
 
 ## About Me
 
@@ -13,10 +14,10 @@
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/muhammadrezafebrianto/)
-
 ## Languages and Tools:
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+
