@@ -13,7 +13,7 @@
 ## Connect with Me ✌️
 
 - ![https://www.linkedin.com/in/muhammadrezafebrianto/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- ![https://www.instagram.com/antofebriann](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+- ![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/antofebriann)
 - ![https://www.strava.com/athletes/137822165](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)
 ## 🤖Languages and Tools🛠️:
 
