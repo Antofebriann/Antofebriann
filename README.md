@@ -11,8 +11,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antofebriann&show_icons=true&hide_title=true)
 
 ## Connect with Me ✌️
-
-- ![https://www.linkedin.com/in/muhammadrezafebrianto/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadrezafebrianto/)
 - ![https://www.instagram.com/antofebriann](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 - ![https://www.strava.com/athletes/137822165](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)
 ## 🤖Languages and Tools🛠️:
